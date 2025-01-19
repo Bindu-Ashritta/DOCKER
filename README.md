@@ -1,1 +1,0 @@
-Project 1: Setting up a simple web server
