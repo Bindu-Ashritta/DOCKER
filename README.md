@@ -1,4 +1,5 @@
 # Docker
+### Note: Redirect to Master branch for Simple Docker Projects
 
 ## Table of Contents
  - [What is Docker](#what-is-docker)
